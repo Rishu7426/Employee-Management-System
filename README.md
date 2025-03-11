@@ -25,7 +25,7 @@ MySQL (Database)
 JDBC (Database Connectivity)
 
 BufferedReader (For user input handling)
-
+ 
 📂 Project Structure
 
 📂 EmployeeManagementSystem
